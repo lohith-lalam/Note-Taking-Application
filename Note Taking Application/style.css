@@ -1,0 +1,16 @@
+.navbar-text {
+	font-size: 30px;
+}
+
+.card-title {
+	margin-bottom: 1rem;
+}
+
+#addBtn {
+	background-color: rgb(59, 82, 183);
+	color: white;
+}
+
+#notes {
+	margin-top: 1rem;
+}
