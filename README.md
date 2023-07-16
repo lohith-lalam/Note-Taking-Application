@@ -34,6 +34,6 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-The Note Taking Application is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The Note Taking Application is open-source software licensed under the [MIT License](LICENSE.txt).
 
 
